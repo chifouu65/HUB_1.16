@@ -1,0 +1,6 @@
+name: Hub
+version: '${project.version}'
+main: fr.chifouu.hub.Hub
+api-version: 1.16
+depend:
+  - ProtocolLib
